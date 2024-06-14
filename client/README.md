@@ -1,8 +1,15 @@
-# React + Vite
+# Video Calling App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The Video Calling App is a real-time communication platform that allows users to initiate and participate in video calls over the internet. Utilizing WebRTC for peer-to-peer connections and Socket.io for signaling, the app provides a seamless and interactive experience for users to communicate face-to-face remotely.
 
-Currently, two official plugins are available:
+## Features
+- **Real-Time Video and Audio Communication**: High-quality video and audio streaming using WebRTC technology.
+- **Easy Call Initiation**: Users can start a call with a single click and share the call link with others.
+- **Peer-to-Peer Connection**: Direct communication between users ensures low latency and high performance.
+- **Cross-Platform Compatibility**: Works on various devices and platforms, including desktops, tablets, and smartphones. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ![Video Call](public/VIDEO_CALL_PIC.jpg)
+
+## Credits
+This Project Was Created By Ayush Patel.
