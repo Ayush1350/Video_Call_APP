@@ -9,7 +9,7 @@ The Video Calling App is a real-time communication platform that allows users to
 - **Peer-to-Peer Connection**: Direct communication between users ensures low latency and high performance.
 - **Cross-Platform Compatibility**: Works on various devices and platforms, including desktops, tablets, and smartphones. 
 
-- ![Video Call](public/VIDEO_CALL_PIC.jpg)
+- ![Video Call](/client/public/VIDEO_CALL_PIC.jpg)
 
 ## Credits
 This Project Was Created By Ayush Patel.
